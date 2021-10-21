@@ -1,4 +1,4 @@
-"# Binary Search Tree" 
+# Binary Search Tree
 
 ```
 bst = BinarySearchTree.bulk_insert([12, 11, 90, 82, 7, 9])
